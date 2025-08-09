@@ -1,0 +1,19 @@
+body::before{
+    display: block;
+    content: "";
+    height: 40px;
+}
+
+.pic-instructor{
+   height: 130px;
+    
+}
+
+
+@media (min-width: 786px) {
+    .news-input {
+        width: 50%;
+    }
+
+    
+}
